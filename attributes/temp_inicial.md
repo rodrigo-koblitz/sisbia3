@@ -1,0 +1,17 @@
+# Temperatura Inicial
+
+## Identificação
+**Código:** temp_inicial
+
+## Propriedades
+**Formato:** Float  
+**Planilha:** esforco  
+**Formato Entrada:** Entrada  
+**Vocabulário Controlado:**   
+**Colunas Condicionadas:**   
+
+## Descrição
+Temperatura inicial de uma amostragem em graus centígrados
+
+## Espaço para Discussão
+[Este espaço está reservado para discussões, perguntas e esclarecimentos sobre este atributo. Sinta-se à vontade para adicionar comentários, sugestões ou dúvidas.]

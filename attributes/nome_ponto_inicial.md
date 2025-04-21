@@ -1,0 +1,17 @@
+# Nome do ponto inicial
+
+## Identificação
+**Código:** nome_ponto_inicial
+
+## Propriedades
+**Formato:** Text  
+**Planilha:** esforco  
+**Formato Entrada:** Entrada  
+**Vocabulário Controlado:**   
+**Colunas Condicionadas:**   
+
+## Descrição
+Nome do ponto inicial
+
+## Espaço para Discussão
+[Este espaço está reservado para discussões, perguntas e esclarecimentos sobre este atributo. Sinta-se à vontade para adicionar comentários, sugestões ou dúvidas.]
